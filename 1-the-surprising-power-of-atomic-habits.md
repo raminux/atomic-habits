@@ -17,7 +17,7 @@ Habits are the compound interest of self-improvements.
 
 ## What Progress Is Really Like
 - Breakthrough moments are often the result of many previous actions, which build up the potential required to unleash a major change. 
-- Bamboo tree can barely be seen for the first five years as it buils extensive root systems undergroung before exploding ninety feet into the air within six weeks. 
+- Bamboo tree can barely be seen for the first five years as it buils extensive root systems underground before exploding ninety feet into the air within six weeks. 
 - Habits often appear to make no difference until you cross a critical threshold and unlock a new level of performance.
 - Habits need to persist long enough to break through ==the plateau of latent potential.==
 - `Plateau` is a state of little or no change following a period of activity or progress!
@@ -27,4 +27,13 @@ I recall a sentence that highly similar to what `James` states in this section o
 In other words, when you think that you are not progressing, you are at the plateau of latent potential. At this state, you just need to move forward one step ahead. That is the point!
 
 ## The Plateau of Latent Potential
+- Start small and amateur and grow bigger and bigger. 
+> The seed of every habit is a single, tiny decision. But as that decision is repeated, a habit sprouts and grows stronger. 
+
+There are two important questions that need to be investigated and answered in order to be able to cultivate good habits and uproot the bad ones:
+1. What determines whether we stick with a habit long enough to survive the Plateau of Latent Potential and break through to the other side?
+2. What is it that causes some people to slide into unwanted habits and enables others to enjoy the compounding effects of good ones?
+
+## Forget about goals, Focus on systems instead
+
 
