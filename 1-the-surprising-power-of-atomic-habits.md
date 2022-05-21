@@ -35,5 +35,27 @@ There are two important questions that need to be investigated and answered in o
 2. What is it that causes some people to slide into unwanted habits and enables others to enjoy the compounding effects of good ones?
 
 ## Forget about goals, Focus on systems instead
+> - ==Goals== are about the results you want to achieve, while ==Systems== are about the **Processes** that lead to those results. 
+> I see a great insight in this sentence. It strongly states that what determines my success is the habit of success. In other words, by having a good set of habits, I equipe myself with those systems that lead to my end goals seamlessly. I need to cultivate more and more of these processes to be able to grow and shine with focus. 
+> The only way to win is to get better each day. 
+
+- So, I have to fix my system. Then the result takes care of itself! This is true in any areas of life. Focus on system not goal!
+
+- Goals are good just for setting the direction, otherwise if they take more of our attention than what the system needs, the following problems will arise:
+1. Winners and losers have the same goals. 
+Winners have a system of continuous small improvements, while losers don't!
+
+2. Achieving a goal is only a momentary change. 
+Being tidy and clean always is different from cleaning the room every week. 
+
+3. Goals restrict your happiness.
+Either you have to enjoy the process or enjoy the result. Enjoying the process means living with great happiness every moment of my life. Goals restric happiness and delay it until achieving it! That's not fun!
+
+4. Goals are at odds with long-term progress. 
+Build the system and win the game of life, or set a goal and win once!
+Commit to the process and your success is guaranteed!
+
+## A System of Atomic Habits
+- If I want to change my habits, I need to change my system! By changing my system, I am able to remove bad habits and add good oned instead. This process is done step by step with easy, enjoyable, and powerful atomic routines. Let's do it!
 
 
