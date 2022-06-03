@@ -4,10 +4,10 @@ In this file, I'm going to write and track all the habits that I want to develop
 ## 1. Health & Fitness
 |ID | Habit                         |        Frequency                |
 |:--|:-----------------------------:|:------------------------------:|
-|1  |6 glass of water a day         |1        |
-|2  |50 Push up a day               |1        |
-|3  | No junk food                  |1        |
-|4  | No sugar                      |1        |
+|1  |6 glass of water a day         |11111        |
+|2  |50 Push up a day               |1101        |
+|3  | No junk food                  |11111        |
+|4  | No sugar                      |11111        |
 |5  |    |
 
 ## 2. Intellectual
@@ -63,15 +63,15 @@ In this file, I'm going to write and track all the habits that I want to develop
 ## 9. Career
 |ID | Habit                         |        Frequency                |
 |:--|:-----------------------------:|:------------------------------:|
-|1  |         |         |
-|2  |               |         |
+|1  | At least 3 commits to github everyday         | 1101        |
+|2  | 30 minutes work on my project and career every morning               |         |
 
 
 
 ## 10. Finance
 |ID | Habit                         |        Frequency                |
 |:--|:-----------------------------:|:------------------------------:|
-|1  | At least 3 commits to github everyday        |         |
+|1  |        |         |
 |2  |               |         |
 
 
