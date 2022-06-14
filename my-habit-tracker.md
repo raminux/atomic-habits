@@ -4,11 +4,11 @@ In this file, I'm going to write and track all the habits that I want to develop
 ## 1. Health & Fitness
 |ID | Habit                         |        Frequency                |
 |:--|:-----------------------------:|:------------------------------:|
-|1  |6 glass of water a day         |11111        |
-|2  |50 Push up a day               |1101        |
-|3  | No junk food                  |11111        |
-|4  | No sugar                      |11111        |
-|5  |    |
+|1  | 6 glass of water a day        |111111111111      |
+|2  | 50 Push up a day              |110111111111       |
+|3  | No junk food                  |111111111111        |
+|4  | No sugar                      |1111111111110       |
+|5  | 500 boxing daily              |1
 
 ## 2. Intellectual
 |ID | Habit                         |        Frequency                |
@@ -42,15 +42,16 @@ In this file, I'm going to write and track all the habits that I want to develop
 ## 6. Love Relationship
 |ID | Habit                         |        Frequency                |
 |:--|:-----------------------------:|:------------------------------:|
-|1  |         |         |
+|1  |Read books every night         |         |
 |2  |               |         |
 
 
 ## 7. Parenting
 |ID | Habit                         |        Frequency                |
 |:--|:-----------------------------:|:------------------------------:|
-|1  |         |         |
-|2  |               |         |
+|1  |Family walking everyday 15-30 minutes         |         |
+|2  |Family Exercise or Dance daily 30 minutes               |         |
+|3  |Read a book with Baran every night for 10 minutes  |  |
 
 
 ## 8. Social Life
@@ -63,8 +64,8 @@ In this file, I'm going to write and track all the habits that I want to develop
 ## 9. Career
 |ID | Habit                         |        Frequency                |
 |:--|:-----------------------------:|:------------------------------:|
-|1  | At least 3 commits to github everyday         | 1101        |
-|2  | 30 minutes work on my project and career every morning               |         |
+|1  | At least 3 commits to github everyday         | 1101010110        |
+|2  | 30 minutes work on my project and career every morning               |  1100111       |
 
 
 
